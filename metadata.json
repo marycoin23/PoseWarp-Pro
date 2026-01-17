@@ -1,0 +1,5 @@
+{
+  "name": "PoseWarp Pro",
+  "description": "A professional puppet warp tool for character posing. Upload transparent PNGs, place pins on joints, and deform your character with real-time mesh warping.",
+  "requestFramePermissions": []
+}
